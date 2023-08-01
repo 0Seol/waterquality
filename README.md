@@ -1,2 +1,2 @@
 # waterquality
-for using machinelearning to predict water quality
+fine_water_prediction Model
